@@ -2,11 +2,13 @@
 
 The Pullwright product roadmap lives with the pipeline it productises:
 
-**[`Poetic-Poems/agent-ops` → `docs/ROADMAP.md`](https://github.com/Poetic-Poems/agent-ops/blob/main/docs/ROADMAP.md)**
+**[`Pullwright/agent-ops` → `docs/ROADMAP.md`](https://github.com/Pullwright/agent-ops/blob/main/docs/ROADMAP.md)**
 is the single source of truth.
 
 This file is deliberately a stub: keeping two copies in sync by hand is a
 failure mode, so nothing of substance is recorded here. Propose roadmap
 changes there, through that repository's pull-request workflow. The roadmap
-moves into this organisation with the Phase 1 repository split (roadmap
-decision D8), at which point this stub is replaced by the document itself.
+arrived in this organisation with `agent-ops` itself (roadmap decision D8,
+completed by transfer on 2026-09-07), and it stays in that repository rather
+than here so that the document and the pipeline it describes change in the
+same pull requests.
